@@ -1,0 +1,14 @@
+Classes shoudl be created
+
+
+1) Symbol
+2) Board
+3) Player
+
+
+enum SymbolType{
+    X,O
+}
+
+Symbol has a Symbol type
+
